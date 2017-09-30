@@ -1,0 +1,21 @@
+h1 {
+font-family: 'Arvo', serif;
+opacity: 1;
+}
+p {
+font-family: 'Open Sans', sans-serif;
+opacity: 1;
+}
+
+.jumbotron-fluid {
+  opacity: .5;
+}
+
+.ontop {
+  position: relative;
+  top: -22em;
+}
+
+.text-muted {
+  color: blue;
+}
