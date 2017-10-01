@@ -5,6 +5,7 @@ font-family: 'Arvo', serif;
 
 h4 {
 font-family: 'Open Sans', sans-serif;
+color: white;
 }
 
 p {
@@ -33,9 +34,6 @@ body {
 .container {
   position: relative;
   top: -9em;
-}
-.lead {
-  float: right;
 }
 
 .ontop {
@@ -74,9 +72,6 @@ body {
   margin: auto;
 }
 
-.work {
-float: right;
-}
 
 img {display: block;
     margin: auto;
@@ -89,5 +84,20 @@ img {display: block;
   padding: 2px;
   text-align: center;
   position: relative;
-  margin: auto;
+  margin: 0px auto;
+  float: none;
+    }
+
+.rounded-list {
+        border-radius: 20px;
+        width: 40%;
+        position: relative;
+        margin: 0px auto;
+        float: none;
+        background-color: white;
+    }
+
+    ol {
+      position: relative;
+      margin: auto 0px;
     }
