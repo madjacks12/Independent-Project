@@ -36,18 +36,6 @@ body {
   top: -9em;
 }
 
-.ontop {
-
-  position: relative;
-  top: -22em;
-  padding-left: 12px;
-  padding-top: 6px;
-}
-
-.text-muted {
-  color: blue;
-}
-
 .about {
   width: 500px;
   margin: 0 auto;
@@ -89,15 +77,15 @@ img {display: block;
     }
 
 .rounded-list {
-        border-radius: 20px;
-        width: 40%;
-        position: relative;
-        margin: 0px auto;
-        float: none;
-        background-color: white;
-    }
+  border-radius: 20px;
+  width: 40%;
+  position: relative;
+  margin: 0px auto;
+  float: none;
+  background-color: white;
+  }
 
-    ol {
-      position: relative;
-      margin: auto 0px;
+ol {
+  position: relative;
+  margin: auto 0px;
     }
