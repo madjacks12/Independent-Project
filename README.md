@@ -8,6 +8,16 @@
 
 _{This website hosts links to my other projects created in class as well as an about me section. This page was laid out using the grid system. There are some problems with the responsive design in the header, but I ran out of time.}_
 
+## Setup/Installation Requirements
+----------------
+#### Download this repo using your terminal:
+
+>git clone independent-project
+>cd independent-project
+
+#### Navigate to portoflio2.html in your browser.
+-----------------
+
 ## Technologies Used
 
 _{HTML, CSS & Bootstrap}_
